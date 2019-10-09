@@ -1,0 +1,26 @@
+{
+  "name": "v-loading",
+  "version": "1.0.0",
+  "description": "Vue directive to show animation while loading data.",
+  "main": "v-loading.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vito2005/v-loading.git"
+  },
+  "keywords": [
+    "vue",
+    "loading",
+    "directive",
+    "vue",
+    "spinner"
+  ],
+  "author": "alexbuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vito2005/v-loading/issues"
+  },
+  "homepage": "https://github.com/vito2005/v-loading#readme"
+}
