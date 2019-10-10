@@ -1,8 +1,8 @@
 {
-  "name": "v-loading",
+  "name": "@alexbuki/vue-loading",
   "version": "1.0.0",
   "description": "Vue directive to show animation while loading data.",
-  "main": "v-loading.js",
+  "main": "index.js",
   "scripts": {
     "test": "test"
   },
